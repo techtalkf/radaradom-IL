@@ -17,3 +17,10 @@ AlertRadar is an analytical system that monitors and predicts missile alerts in 
 - Historical alert logging with decay and trend analysis  
 
 ---
+
+## Acknowledgments / Data Sources
+
+- Pikud Haoref (Oref) – official alert API
+- Tzofar – backup historical alert data
+- Israeli news outlets: Ynet, Mako, Maariv, Walla, Hamal
+- Community contributions & feedback
