@@ -22,6 +22,16 @@ AlertRadar is an analytical system that monitors and predicts missile alerts in 
   <img src="assets/example1.png" width="70%" alt="AlertRadar Desktop Interface">
   <img src="assets/example2.png" width="20%" alt="AlertRadar Mobile Interface">
 </p>
+
+## Demo Video
+
+<p align="center">
+<a href="https://youtu.be/fL_gfTYZtJAD">
+  <img src="https://i.ytimg.com/vi/fL_gfTYZtJA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDggZShNMA8=&rs=AOn4CLDz0isDRAPj3DLHi7X7ts8q4P0Fdg" width="700">
+</a>
+</p>
+
+
 ---
 
 ## Features
